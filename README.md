@@ -15,7 +15,7 @@ The source code leaked here is the exact same code that discord.gg/members1 used
 Download the Repository:
 Clone this repository to your local machine using the following command:
 ```sh
-git clone https://github.com/demonIzedzip/charge-members-aka-members1-source.git
+git clone https://github.com/kryx1fy/charge-members-aka-members1-source.git
 ```
 # Review the Code:
 Browse through the code to understand what was being sold. This might help you identify any similar scams in the future.
