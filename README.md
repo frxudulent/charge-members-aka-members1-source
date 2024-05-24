@@ -39,14 +39,23 @@ Browse through the code to understand what was being sold. This might help you i
 # Spread Awareness:
 Share this repository to raise awareness about the scammer and prevent others from falling into similar traps.
 
+# SERVER
+https://discord.gg/boostation
+
 # Setup
 **I am helping you to set it up for a fee of 10 USD PayPal Or LTC DM kryxify on discord of you want to buy**
+
+# SERVER
+https://discord.gg/boostation
 
 # How to Contribute
 If you have also been scammed by discord.gg/members1 or have any additional information that can help in exposing this individual, feel free to open an issue or submit a pull request. Let's work together to make the online community a safer place.
 
 # Setup
 **I am helping you to set it up for a fee of 10 USD PayPal Or LTC DM kryxify on discord of you want to buy**
+
+# SERVER
+https://discord.gg/boostation
 
 # Legal Disclaimer
 This repository is intended for educational and informational purposes only. The release of this source code is a direct response to fraudulent activities and is meant to prevent further scams. Please use the information responsibly and do not engage in any illegal activities.
@@ -60,6 +69,12 @@ Repository Maintainer: **Kryxify**
 # Setup
 **I am helping you to set it up for a fee of 10 USD PayPal Or LTC DM kryxify on discord of you want to buy**
 
+# SERVER
+https://discord.gg/boostation
+
 Special Thanks: **Kryxify**
 
 This document is created as a public service to protect and inform the community about fraudulent activities.
+
+# SERVER
+https://discord.gg/boostation
